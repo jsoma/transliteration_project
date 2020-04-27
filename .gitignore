@@ -5,3 +5,5 @@ data
 /*.txt
 /*.vert
 corpuscrawler-master
+raw/original.txt
+raw/transliterated.txt
